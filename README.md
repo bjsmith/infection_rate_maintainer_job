@@ -1,5 +1,7 @@
 # infection_rate
-infection rates of different countries for covid-19
+maintainer for infection_rate. Job runs periodically; grabs information from a google spreadsheet and posts it to the app.
+
+Done this way to avoid the app crashing
 
 # License
 
