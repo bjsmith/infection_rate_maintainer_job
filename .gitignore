@@ -3,6 +3,7 @@
 .Rhistory
 .Rproj.user
 .Rproj.user/*
+offline_test_env.R
 
 app/*.nb.html
 
