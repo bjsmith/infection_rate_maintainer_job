@@ -21,7 +21,6 @@ ftp_url <- paste0(
 # cat(zz)
 # write.table(data.frame(manual_corrections), file=zz, row.names=FALSE, col.names=FALSE, sep=";")
 
-
 #save the file
 write.csv(manual_corrections,file="manual_connections_local.csv")
 
